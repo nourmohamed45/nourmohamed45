@@ -9,7 +9,7 @@ a frontend developer from Egypt 🇪🇬 with a passion for creating sleek, resp
 
 🔧 Skills: HTML, CSS, JavaScript, TypeScript.
 
-✍️ React.js, Redux, Angular.
+✍️ React.js, Redux, Next.js.
 
 ⚛️ Tailwind, Bootstrap, Material UI.
 
